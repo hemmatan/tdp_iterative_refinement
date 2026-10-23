@@ -1,0 +1,14 @@
+{
+  "train.txt": {
+    "sha256": "e2063f1658c60795fbea0b3506cbbdeceec38fb73831c0f2243c22466575e088",
+    "documents": 400
+  },
+  "dev.txt": {
+    "sha256": "03560ce6d9d855cc2a2d4ae103da10003cde9fb63f4af5174d3d4628ac134995",
+    "documents": 50
+  },
+  "test.txt": {
+    "sha256": "206005d19d5668a4ec1bd35f999f5d9d99590e337de69ff08f2f9496be6b674c",
+    "documents": 50
+  }
+}

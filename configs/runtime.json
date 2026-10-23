@@ -1,0 +1,9 @@
+{
+  "train_file": "train.txt",
+  "dev_file": "dev.txt",
+  "test_file": "test.txt",
+  "log_level": "INFO",
+  "log_rotate_mb": 20,
+  "log_rotate_backups": 10,
+  "log_console": false
+}

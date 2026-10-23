@@ -1,0 +1,15 @@
+# Linux x86_64, CPython 3.10, CUDA 12.1. Install in a new virtual environment.
+# Direct official wheels avoid inheriting CUDA choices from another environment.
+torch @ https://download-r2.pytorch.org/whl/cu121/torch-2.3.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=0a12aa9aa6bc442dff8823ac8b48d991fd0771562eaa38593f9c8196d65f7007
+dgl @ https://data.dgl.ai/wheels/torch-2.3/cu121/dgl-2.3.0%2Bcu121-cp310-cp310-manylinux1_x86_64.whl
+graph4nlp==0.5.5
+transformers==4.55.4
+numpy==1.26.4
+pandas==2.3.2
+networkx==3.3
+torchtext==0.18.0
+torchdata==0.8.0
+pydantic==2.11.7
+tensorboard==2.20.0
+safetensors==0.6.2
+setuptools==80.9.0
